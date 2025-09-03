@@ -1,6 +1,3 @@
-# Seguridad
-Laboratorios de Seguridad en Entornos de Desarrollo
-
 Preguntas:
 
 ##1-) ¿Cual es el punto mas debil de PGP?
