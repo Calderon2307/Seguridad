@@ -1,31 +1,34 @@
 # Seguridad
+
 Laboratorios de Seguridad en Entornos de Desarrollo
 
 Preguntas:
 
-##1-) ¿Cual es el punto mas debil de PGP?
+## 1-) ¿Cual es el punto mas debil de PGP?
+
 **Complejidad de uso y gestión de claves**
 **Factor humano**
 **Intercambio de claves poco fiable**
 **Falta de anonimato**
 **Compatibilidad entre versiones**
 
-##2-) ¿Cuando es conveniente utilizar cifrado simetrico?
+## 2-) ¿Cuando es conveniente utilizar cifrado simetrico?
+
 Cuando se prioriza la velocidad y eficiencia, especialmente para proteger grandes volúmenes de datos en reposo o en tránsito, como en el cifrado de bases de datos, archivos, discos y el almacenamiento en la nube.
 
-##3-) ¿En que consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa)?
+## 3-) ¿En que consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa)?
+
 **1. Planificación y definición de requisitos de seguridad**
-Se establecen los requisitos de seguridad del proyecto, como la protección de datos sensibles, el cumplimiento de normativas y la gestión de accesos. 
+Se establecen los requisitos de seguridad del proyecto, como la protección de datos sensibles, el cumplimiento de normativas y la gestión de accesos.
 
 **2. Diseño seguro**
-Se crean modelos de amenazas para identificar vulnerabilidades potenciales y se definen las arquitecturas seguras para el software. 
+Se crean modelos de amenazas para identificar vulnerabilidades potenciales y se definen las arquitecturas seguras para el software.
 
 **3. Implementación segura**
-Los desarrolladores aplican prácticas de codificación segura, como la validación de datos y la gestión de errores, para evitar vulnerabilidades comunes. 
+Los desarrolladores aplican prácticas de codificación segura, como la validación de datos y la gestión de errores, para evitar vulnerabilidades comunes.
 
 **4. Verificación y pruebas de seguridad**
-Se realizan pruebas de seguridad exhaustivas, incluyendo escaneo dinámico, pruebas de penetración y revisiones de código. 
+Se realizan pruebas de seguridad exhaustivas, incluyendo escaneo dinámico, pruebas de penetración y revisiones de código.
 
 **5. Despliegue y mantenimiento seguros**
-Se gestiona el despliegue del software considerando la seguridad, y se implementan medidas para proteger los sistemas en producción. 
-
+Se gestiona el despliegue del software considerando la seguridad, y se implementan medidas para proteger los sistemas en producción.
